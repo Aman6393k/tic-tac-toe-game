@@ -1,4 +1,4 @@
 # TicTacToe
-
-# Dans le code , j'ai mis parfois des [y][x] et des [ligne][colonne] 
-# Cela correspond à la même chose à savoir une case dans notre grille 
+BUILD BY AMAN KASHYAP
+For any Query
+MAIL iak72172@gmail.com
