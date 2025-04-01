@@ -1,6 +1,7 @@
 import pygame
 import sys
 
+
 class Grille:
 
 	def __init__(self,ecran):
